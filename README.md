@@ -1,0 +1,2 @@
+# basla
+baslangıc 1
